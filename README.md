@@ -1,7 +1,30 @@
-![alt text](https://github.com/YeeHo/Glutton/blob/master/NCBD-49.png)
+![Phi/Psi distributions for ALA-49 in NCBD: MD vs Glutton](NCBD-49.png)
 Figure 1. Side-by-side comparison of the Phi and Psi angle distributions based on 10,000 structures obtained from 10-us MD simulations(left) and Glutton (right) for ALA-49 in NCBD. 
 
 # Glutton
+
+## How to cite
+
+If you use Glutton or the Glutton database in your work, please cite:
+
+> Yi He, Suhani Nagpal, Mourad Sadqi, Eva de Alba, Victor Muñoz.
+> **Glutton: a tool for generating structural ensembles of partly disordered proteins from chemical shifts.**
+> *Bioinformatics* 35(7):1234–1236 (2019). First published online 4 September 2018.
+> https://doi.org/10.1093/bioinformatics/bty755
+
+```bibtex
+@article{He2018Glutton,
+  author  = {He, Yi and Nagpal, Suhani and Sadqi, Mourad and de Alba, Eva and Mu{\~n}oz, Victor},
+  title   = {Glutton: a tool for generating structural ensembles of partly disordered proteins from chemical shifts},
+  journal = {Bioinformatics},
+  volume  = {35},
+  number  = {7},
+  pages   = {1234--1236},
+  year    = {2019},
+  doi     = {10.1093/bioinformatics/bty755}
+}
+```
+
 Please take 5 minutes to read this brief readme file before running the Glutton script. 
 
 Part 1 of 4. Introduction of Glutton
