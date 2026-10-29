@@ -25,6 +25,10 @@ If you use Glutton or the Glutton database in your work, please cite:
 }
 ```
 
+## License
+
+Glutton is released under the [MIT License](LICENSE).
+
 Please take 5 minutes to read this brief readme file before running the Glutton script. 
 
 Part 1 of 4. Introduction of Glutton
